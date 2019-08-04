@@ -24,8 +24,7 @@ export default class Work extends Component {
                         <h2>Ambassador and Sortation Associate – Amazon Logistics
                         <br></br>
                         <span>2017 - Current</span></h2>
-                        <p>Supports associate on the production floor. Trains new hires. Responsible for receiving, sorting and scanning Amazon
-                        packages.</p>
+                        <p>Successfully supports associates on the production floor while providing training to new hires and assisting in the process of receiving, sorting and scanning Amazon packages providing attention to detail and excellent customer service.</p>
                       </div>
                     </div>
                   </article>
@@ -38,7 +37,7 @@ export default class Work extends Component {
                         <h2>Technical Support Representative – Sutherland Global Services
                         <br></br>
                         <span>2012 - 2015</span></h2>
-                        <p>Provided technical support, troubleshoot and fixed product and service issues for Samsung Electronics and AT&T U-verse.</p>
+                        <p>Expertly provided technical support, troubleshoot and resolve product and service issues for Samsung Electronics and AT&T U-Verse providing an excellent customer service experience.</p>
                       </div>
                     </div>
                   </article>
@@ -51,8 +50,7 @@ export default class Work extends Component {
                         <h2>Customer Service Representative – TeleTech
                         <br></br>
                         <span>2011-2012</span></h2>
-                        <p>Handled high volume of outbound calls to the customer by providing information regarding their bundle order plans. Assisted
-                        and processed customers’ orders.</p> 
+                        <p>Effectively and proficiently managed a high volume of outbound sales calls providing customers with the benefits to bundling order plans; while assisting and processing customer orders.</p> 
                       </div>
                     </div>
                   </article>
