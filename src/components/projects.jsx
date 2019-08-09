@@ -83,8 +83,7 @@ export default class Projects extends Component {
 											There are four infinity stones. By clicking on a infinity stone, you will add a specific amount of points to your total score.
 											You win the game by matching your total score to random number.
 											You lose the game if your total score goes above the random number.
-											The value of each infinity stone is hidden from you until you click on it.
-											Each time when the game starts, the game will change the values of each infinity stone.</span>
+											</span>
 											<p className="icon text-center">
 												<span><a href="https://lerodcalanoc.github.io/unit-4-game/" target="_blank"><i className="icon-monitor"/> LIVE APP</a></span>
 												<span><a href="https://github.com/lerodcalanoc/unit-4-game/" target="_blank"><i className="icon-github" /> SOURCE</a></span>
