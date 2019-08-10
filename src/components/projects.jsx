@@ -14,9 +14,26 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+								<div className="project" style={{backgroundImage: 'url(images/yumme.jpeg)'}}>
+									<div className="desc">
+										<div className="con">
+											<h3><a href="work.html">Yum(Me)!</a></h3>
+											<span>Yum(Me)! is an application that caters to all culinary creatives! It is designed as a centralized location where users can not only search, save, modify and share recipes (including notes!) but also track recipe development over time.
+											<br></br>
+											</span>
+											<p className="icon text-center">
+												<span><a href="https://yummev3.herokuapp.com/" target="_blank"><i className="icon-monitor"/> LIVE APP</a></span>
+												<span><a href="https://github.com/lerodcalanoc/Yum-me-v.3" target="_blank"><i className="icon-github" /> SOURCE</a></span>
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
 								<div className="project" style={{backgroundImage: 'url(images/github.png)'}}>
 									<div className="desc">
 										<div className="con">
+											<h3><a href="work.html">In or Out</a></h3>
 											<h3><a href="work.html">GitHub Finder</a></h3>
 											<span>This app searches Github.com user profiles and displays profile info and the latest repositories.
 											<br></br>
@@ -24,22 +41,6 @@ export default class Projects extends Component {
 											<p className="icon text-center">
 												<span><a href="https://findergithub.netlify.com/" target="_blank"><i className="icon-monitor"/> LIVE APP</a></span>
 												<span><a href="https://github.com/lerodcalanoc/GitHub-Finder" target="_blank"><i className="icon-github" /> SOURCE</a></span>
-											</p>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/cook.jpg)'}}>
-									<div className="desc">
-										<div className="con">
-											<h3><a href="work.html">In or Out</a></h3>
-											<span>“A nutrition app for deciding how to eat!” This application uses multiple API interactions to query a recipe based on a given ingredient,
-											display nutritional values for that recipe - based on its ingredients, query a similar food product - available for purchase at a nearby
-											restaurant and display nutritional values for that product for comparison.</span>
-											<p className="icon text-center">
-												<span><a href="https://kathdoza.github.io/project_1/" target="_blank"><i className="icon-monitor"/> LIVE APP</a></span>
-												<span><a href="https://github.com/kathdoza/project_1" target="_blank"><i className="icon-github" /> SOURCE</a></span>
 											</p>
 										</div>
 									</div>
@@ -74,19 +75,17 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/stones.png)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/cook.jpg)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">
-												Get Them Infinity Stones!</a></h3>
-											<span>You will be given a random number at the start of the game.
-											There are four infinity stones. By clicking on a infinity stone, you will add a specific amount of points to your total score.
-											You win the game by matching your total score to random number.
-											You lose the game if your total score goes above the random number.
-											</span>
+											In or Out</a></h3>
+											<span>“A nutrition app for deciding how to eat!” This application uses multiple API interactions to query a recipe based on a given ingredient,
+											display nutritional values for that recipe - based on its ingredients, query a similar food product - available for purchase at a nearby
+											restaurant and display nutritional values for that product for comparison.</span>
 											<p className="icon text-center">
-												<span><a href="https://lerodcalanoc.github.io/unit-4-game/" target="_blank"><i className="icon-monitor"/> LIVE APP</a></span>
-												<span><a href="https://github.com/lerodcalanoc/unit-4-game/" target="_blank"><i className="icon-github" /> SOURCE</a></span>
+												<span><a href="https://kathdoza.github.io/project_1/" target="_blank"><i className="icon-monitor"/> LIVE APP</a></span>
+												<span><a href="https://github.com/kathdoza/project_1" target="_blank"><i className="icon-github" /> SOURCE</a></span>
 											</p>
 										</div>
 									</div>
