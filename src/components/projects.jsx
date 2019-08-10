@@ -85,7 +85,7 @@ export default class Projects extends Component {
 											restaurant and display nutritional values for that product for comparison.</span>
 											<p className="icon text-center">
 												<span><a href="https://kathdoza.github.io/project_1/" target="_blank"><i className="icon-monitor"/> LIVE APP</a></span>
-												<span><a href="https://github.com/kathdoza/project_1" target="_blank"><i className="icon-github" /> SOURCE</a></span>
+												<span><a href="https://github.com/lerodcalanoc/In-Or-Out" target="_blank"><i className="icon-github" /> SOURCE</a></span>
 											</p>
 										</div>
 									</div>
