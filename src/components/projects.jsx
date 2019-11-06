@@ -33,7 +33,6 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/github.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">In or Out</a></h3>
 											<h3><a href="work.html">GitHub Finder</a></h3>
 											<span>This app searches Github.com user profiles and displays profile info and the latest repositories.
 											<br></br>

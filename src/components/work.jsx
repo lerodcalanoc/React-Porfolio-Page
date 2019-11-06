@@ -24,7 +24,7 @@ export default class Work extends Component {
                         <h2>Ambassador and Sortation Associate – Amazon Logistics
                         <br></br>
                         <span>2017 - Current</span></h2>
-                        <p>Successfully supports associates on the production floor while providing training to new hires and assisting in the process of receiving, sorting and scanning Amazon packages providing attention to detail and excellent customer service.</p>
+                        <p>Successfully supports associates on the production floor while providing training to new hires, weekly QA audits, and assisting in the process of receiving, sorting and scanning Amazon packages providing attention to detail and excellent customer service.</p>
                       </div>
                     </div>
                   </article>
