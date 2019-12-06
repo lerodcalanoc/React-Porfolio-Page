@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>My name is Rodel Calanoc. My friends call me Lerod and I am a Full Stack Web Developer, currently living in Los Angeles, CA.
+                    <p>My name is Rodel Calanoc. My friends call me Lerod and I'm a Full Stack Web Developer, currently living in Los Angeles, CA.
                     <br></br>
                     I have completed Full Stack Web Development program from University of California, Los Angeles (UCLA).</p>
                     <p> I am very passionate about Web Development, and strive to better myself as a developer, and the development community as a whole.
